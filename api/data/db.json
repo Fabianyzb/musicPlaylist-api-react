@@ -1,0 +1,116 @@
+[
+  {
+    "category": "game",
+    "id": 1,
+    "name": "Mario Castle",
+    "url": "files/mario/songs/castle.mp3"
+  },
+  {
+    "category": "game",
+    "id": 2,
+    "name": "Mario Star",
+    "url": "files/mario/songs/hurry-starman.mp3"
+  },
+  {
+    "category": "game",
+    "id": 3,
+    "name": "Mario Overworld",
+    "url": "files/mario/songs/overworld.mp3"
+  },
+  {
+    "category": "game",
+    "id": 4,
+    "name": "Mario Stage 1",
+    "url": "files/mario/songs/stage1.mp3"
+  },
+  {
+    "category": "game",
+    "id": 5,
+    "name": "Mario Stage 2",
+    "url": "files/mario/songs/stage2.mp3"
+  },
+  {
+    "category": "game",
+    "id": 6,
+    "name": "Mario Star",
+    "url": "files/mario/songs/starman.mp3"
+  },
+  {
+    "category": "game",
+    "id": 7,
+    "name": "Mario Underworld",
+    "url": "files/mario/songs/underworld.mp3"
+  },
+  {
+    "category": "game",
+    "id": 8,
+    "name": "Mario Underwater",
+    "url": "files/mario/songs/underwater.mp3"
+  },
+  {
+    "category": "game",
+    "id": 9,
+    "name": "Zelda Castle",
+    "url": "files/videogame/songs/zelda_castle.mp3"
+  },
+  {
+    "category": "game",
+    "id": 10,
+    "name": "Zelda Outworld",
+    "url": "files/videogame/songs/zelda_outworld.mp3"
+  },
+  {
+    "category": "game",
+    "id": 11,
+    "name": "Zelda Titles",
+    "url": "files/videogame/songs/zelda_title.mp3"
+  },
+  {
+    "category": "game",
+    "id": 12,
+    "name": "Sonic Brain Zone",
+    "url": "files/videogame/songs/sonic_brain-zone.mp3"
+  },
+  {
+    "category": "game",
+    "id": 13,
+    "name": "Zelda Link To Past",
+    "url": "files/videogame/songs/zelda_link-to-past.mp3"
+  },
+  {
+    "game": "cartoon",
+    "id": 14,
+    "name": "Flintstones",
+    "url": "files/cartoons/songs/flintstones.mp3"
+  },
+  {
+    "game": "cartoon",
+    "id": 15,
+    "name": "power-rangers",
+    "url": "files/cartoons/songs/power-rangers.mp3"
+  },
+  {
+    "game": "cartoon",
+    "id": 16,
+    "name": "simpsons",
+    "url": "files/cartoons/songs/simpsons.mp3"
+  },
+  {
+    "game": "cartoon",
+    "id": 17,
+    "name": "south-park",
+    "url": "files/cartoons/songs/south-park.mp3"
+  },
+  {
+    "game": "cartoon",
+    "id": 18,
+    "name": "thundercats",
+    "url": "files/cartoons/songs/thundercats.mp3"
+  },
+  {
+    "game": "cartoon",
+    "id": 19,
+    "name": "x-men",
+    "url": "files/cartoons/songs/x-men.mp3"
+  }
+]
